@@ -13,6 +13,10 @@ In addition to personalized recommendations, School Selector offers comprehensiv
 ![Harry Potter](https://github.com/user-attachments/assets/a65dd499-e1b4-4a30-b738-a4a45c81cea4)
 
 #
+
+![Harry Potter](https://github.com/user-attachments/assets/f4dd3291-29b2-4f7b-82ef-5921d4b62b6b)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
